@@ -33,7 +33,7 @@
 
      
 ##### 2. User friendly interface
-![image]https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/Interface.PNG
+![image](https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/Interface.PNG)
 
 ##### 3. Message Notificatoin
 ![imgae](https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/notification.PNG)
