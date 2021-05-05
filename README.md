@@ -1,7 +1,7 @@
 # EC500-Full-Edition-P2PChat
 ## Feature of this P2PChat:
 ##### 1. command line system
-  People can use the command line to control the system, we have following commands:
+     People can use the command line to control the system, we have following commands:
      SET PUBLIC  - make you visible by other users
      SET PRIVATE - hide yourself
      CHAT [target] - Chat with a user and build a session, the user must be "PUBLIC" or in your friendlist
