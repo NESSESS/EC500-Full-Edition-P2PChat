@@ -45,7 +45,8 @@
 ##### 4. Chat Record
 ![image](https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/chat_record.PNG)
      
-     When you chated with A first, then chated with B, and then you want to chat with A again, it will show your chat record with A.
+     When you chated with A first, then chated with B, and then you want to chat with A again, 
+     it will show your chat record with A.
 
 ##### 5. Add Friends
 ![image](https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/FriendApply1.PNG)
