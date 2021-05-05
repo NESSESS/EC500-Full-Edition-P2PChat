@@ -19,6 +19,7 @@
 ## Feature of this P2PChat:
 ##### 1. Command Line System
 ![image](https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/command_line.PNG)
+
      People can use the command line to control the system, we have following commands:
      SET PUBLIC  - make you visible by other users
      SET PRIVATE - hide yourself
@@ -38,15 +39,23 @@
 ![imgae](https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/notification.PNG)
 
 
-
-
 ##### 4. Chat Record
 ![image](https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/chat_record.PNG)
 
 ##### 5. Add Friends
-   ![image](https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/FriendApply1.PNG)
+![image](https://github.com/NESSESS/EC500-Full-Edition-P2PChat/blob/main/DemoPictures/FriendApply1.PNG)
+        
+     Using ADD [target] to add a user as a friend. The target user  must be in public state.
+     Using LIST APPLY to see the pending application from others.
+     Using COMFIRM [target] to add sb as friend.
+     using LIST FRIENDS  to see your friends.
 
-##### 6. Chat with Friends with out server.
+##### 6. Hide themselves
+     If one user want to be found by others, he can run "SET PUBLIC"
+          In public state, he can chat with his friends or other users who are in public state
+     If one want to hide himself, he can run "SET PRIVATE"
+          In private state, people can still chat with his friends.
+
 
    
 
