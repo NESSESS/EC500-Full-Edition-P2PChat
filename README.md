@@ -1,8 +1,9 @@
 # EC500-Full-Edition-P2PChat
      In this project, I
      Using socket Library and UDP protocal for communication 
-     Using multiple threads: One thread for sending message, one thread for receiving message, 
-     one thread for the Command line Interface
+     Using multiple threads: 
+          One thread for sending message, one thread for receiving message, 
+          one thread for the Command line Interface
      design a simple communication protocal
      only use standard libraries such as socket, threading, os and so on
 # Run Server:
