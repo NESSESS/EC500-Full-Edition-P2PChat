@@ -6,6 +6,7 @@
           one thread for the Command line Interface
      design a simple communication protocal
      only use standard libraries such as socket, threading, os and so on
+[Demo Video Link](https://drive.google.com/file/d/1fOEwbVEgdeg2b1FEPZXPdlTdxS0C1e1l/view?usp=sharing)
 # Run Server:
     Please run the following codes:
     python server.py
